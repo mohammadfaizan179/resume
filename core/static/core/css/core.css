@@ -1,0 +1,28 @@
+.st-font{
+    font-family: 'Amiri', serif;
+}
+
+html,body{
+    height: 100%;
+    box-sizing: border-box;
+}
+.container-fluid{
+    min-height: 100%;
+}
+
+.fa-lg{
+    color: chartreuse;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+.nav-link:hover {
+    color: black;
+    background-color: #e9cd79;
+}
+.nav-link.active {
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
